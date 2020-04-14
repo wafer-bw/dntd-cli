@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/node-v12.10.0-blue">
     <img src="https://img.shields.io/badge/npm-v6.13.6-blue">
     <img src="https://img.shields.io/badge/typescript-3.7.3-blue">
-    <a href="https://github.com/wafer-bw/dnted/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a><br>
+    <a href="https://github.com/wafer-bw/dntd/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a><br>
     <img src="https://github.com/wafer-bw/dntd/workflows/Build/badge.svg">
     <img src="./badges/coverage_badge.svg">
 </div>
